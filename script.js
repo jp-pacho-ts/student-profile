@@ -1,5 +1,5 @@
 function changeName() {
-    document.getElementById("name").innerText = "Maria Santos";
+    document.getElementById("name").innerText = "John Philip Pacho";
     document.getElementById("message").innerText = "Name updated!";
 }
 
